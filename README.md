@@ -24,3 +24,15 @@ Currently ruby on rails, jquery and as client and server side framework which ar
 I would definitely agree to ues this technologies professionally because creating a scable web application using these technolgies is quite
 logical and  significant. Though we follow MVC architecture for each technology but, in this case following MVC architecture perfectly and debugging such
 applications on various cloud would be challenging task.
+
+(D) Uploaded on git using webstroms 
+
+(E) For heroku, following steps was performed
+
+heroku login
+git clone "URL"
+heroku create
+git init
+git add .
+git commit -m "message"
+git push heroku master
