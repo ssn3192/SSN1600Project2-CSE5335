@@ -30,9 +30,15 @@ applications on various cloud would be challenging task.
 (E) For heroku, following steps was performed
 
 heroku login
+
 git clone "URL"
+
 heroku create
+
 git init
+
 git add .
+
 git commit -m "message"
+
 git push heroku master
